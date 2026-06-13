@@ -2,7 +2,7 @@
 
 # Social Program Evaluation & Budget Optimization
 
-A data-driven evaluation of a multi-intervention education program operating across 200 schools in Rajasthan. This project uses statistical modeling, cost-effectiveness analysis, and policy simulation to identify which interventions generate the highest learning outcomes per rupee spent and recommends an optimized budget allocation strategy.
+A data-driven evaluation of a multi-intervention education program operating across 200 schools in Rajasthan. This project uses statistical modeling, cost-effectiveness analysis, and policy simulation to identify which interventions generate the highest learning outcomes per rupee spent and recommends an optimized budget allocation strategy for education in school.
 
 ---
 
@@ -195,7 +195,7 @@ Future validation should include:
 
 ## Policy Recommendation
 
-The evidence strongly suggests prioritizing **Remedial Teaching** as the highest-return educational investment.
+The evidence strongly suggests that prioritize **Remedial Teaching** as the highest-return on educational investment.
 
 Rather than increasing overall expenditure, policymakers can improve learning outcomes by reallocating existing resources toward interventions with the highest demonstrated impact per rupee spent.
 
@@ -214,9 +214,9 @@ Rather than increasing overall expenditure, policymakers can improve learning ou
 
 - Krish Goyal 23113086
 - Ekansh Shakya 23113054
+- Hemant Bhakar 23113066
 - Himanshu Yadav 23113070
 - Rohit Yadav 2311903
-- Hemant Bhakar 23113066
 
 Data Analytics | Econometrics | Social Impact Evaluation
  
